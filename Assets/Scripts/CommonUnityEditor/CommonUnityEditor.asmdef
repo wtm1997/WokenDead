@@ -1,0 +1,20 @@
+{
+    "name": "CommonUnityEditor",
+    "rootNamespace": "",
+    "references": [
+        "CommonUnity",
+        "Common",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

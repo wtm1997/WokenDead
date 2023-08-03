@@ -1,0 +1,17 @@
+{
+    "name": "GameGlobal",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cdec93d90f3edb4a8edbdba56e99e2a",
+        "GUID:e34a5702dd353724aa315fb8011f08c3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -2,3 +2,10 @@
 HybridCLRData/StrippedAOTDllsTempProj
 HybridCLRData/LocalIl2CppData-WindowsEditor
 .idea
+*.csproj
+WokenDead.sln
+Temp
+obj
+Logs
+Library
+UserSettings
